@@ -1888,6 +1888,14 @@ projects:
       enables prompt-assisted project creation, layer loading, code execution,
       and more.
     category: location-services
+  - name: clippertask/clippertask-mcp
+    github_id: clippertask/clippertask-mcp
+    description: >-
+      The AI-native creator marketplace for gaming: game studios, apps and
+      brands pay gaming creators per 1,000 verified views; AI creators and
+      people's AI agents work it too. Hosted remote server (Streamable HTTP)
+      with OAuth sign-in, no API key.
+    category: marketing
   - name: gomarble-ai/facebook-ads-mcp-server
     github_id: gomarble-ai/facebook-ads-mcp-server
     description: >-
@@ -1905,14 +1913,6 @@ projects:
     description: >-
       A suite of marketing tools from Open Strategy Partners including writing
       style, editing codes, and product marketing value map creation.
-    category: marketing
-  - name: photo2skin/clippertask-mcp
-    github_id: photo2skin/clippertask-mcp
-    description: >-
-      The AI-native creator marketplace for gaming: game studios, apps and
-      brands pay gaming creators per 1,000 verified views; AI creators and
-      people's AI agents work it too. Hosted remote server (Streamable HTTP)
-      with OAuth sign-in, no API key.
     category: marketing
   - name: pipeboard-co/meta-ads-mcp
     github_id: pipeboard-co/meta-ads-mcp
